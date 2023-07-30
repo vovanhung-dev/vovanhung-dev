@@ -21,7 +21,11 @@ Võ Văn Hùng</a></h1>
 <img src="https://github-readme-stats.vercel.app/api?username=vovanhung-dev&&show_icons=true&count_private=true&theme=github_dark">|[![GitHub Streak](https://streak-stats.demolab.com?user=vovanhung-dev&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 |---|---|
 ## 📝 Chú ý
-🤝🏻 &nbsp; Hiện tại project được đặt ở chế độ private. Bạn cần kiểm tra số lượng project vui lòng liên hệ qua thông tin phía dưới!
+🤝🏻 &nbsp; Hiện tại project đang được đặt ở chế độ private
+
+📊 Số lượng project hiện tại là 33 và tiếp tục đang được cập nhật.
+
+Nếu bạn quan tâm đến bất kỳ dự án cụ thể nào hoặc muốn biết thêm chi tiết về các dự án đã thực hiện, hãy liên hệ với tôi qua các thông tin dưới đây! 📫
 
 ## Kết nối với tôi
 
