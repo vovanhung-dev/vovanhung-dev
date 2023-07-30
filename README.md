@@ -17,7 +17,7 @@ Vo Van Hung</a></h1>
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vovanhung-dev&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=vovanhung-dev&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vovanhung-dev&&show_icons=true&count_private=true&theme=github_dark">|[![GitHub Streak](https://streak-stats.demolab.com?user=vovanhung-dev&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 |---|---|
 
 ## Connect with Me
