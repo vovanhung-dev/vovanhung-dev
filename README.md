@@ -18,7 +18,7 @@ Võ Văn Hùng</a></h1>
 
 ## Số liệu Github
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovanhung-dev&&rank_icon=github&theme=dark)]|[![GitHub Streak](https://streak-stats.demolab.com?user=vovanhung-dev&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovanhung-dev&&rank_icon=github&theme=dark)|[![GitHub Streak](https://streak-stats.demolab.com?user=vovanhung-dev&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 |---|---|
 ## Chú ý
 🤝🏻 Hiện tại project đang được đặt ở chế độ private.
