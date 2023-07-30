@@ -19,9 +19,11 @@ Vo Van Hung</a></h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vovanhung-dev&&show_icons=true&count_private=true&theme=github_dark">|[![GitHub Streak](https://streak-stats.demolab.com?user=vovanhung-dev&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 |---|---|
+## 📝 Note
+
 
 ## Connect with Me
-
+🤝🏻 &nbsp; Hiện tại project được đặt ở chế độ private. Bạn cần kiểm tra số lượng project vui lòng liên hệ qua thông phía dưới
 
 <p align="center">
   <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
