@@ -13,8 +13,6 @@ Vo Van Hung</a></h1>
 - 💬 Ask me about **Reactjs & Angularjs & Nodejs**
 
 - 📫 How to reach me **vovanhung77h12@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 
 
@@ -22,7 +20,7 @@ Vo Van Hung</a></h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vovanhung-dev&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=vovanhung-dev&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovanhung-dev&layout=compact&theme=github_dark"/>|
 
 ## Connect with Me
 
