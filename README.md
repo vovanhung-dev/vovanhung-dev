@@ -30,7 +30,7 @@ Nếu bạn quan tâm đến bất kỳ dự án cụ thể nào hoặc muốn b
 ## Kết nối với tôi
 
 <p align="center">
-  <a href="[https://linkedin.com/in/jaydeepyadav](https://www.linkedin.com/in/v%C3%B5-v%C4%83n-h%C3%B9ng-6b92721a7/)"><img alt="Linkedin" title="Vo Van Hung Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/võ-văn-hùng-6b92721a7/"><img alt="Linkedin" title="Vo Van Hung Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/vovanhung-dev"><img alt="Github" title="Vo Van Hung Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://facebook.com/vovan.hung.79069/"><img alt="Facebook" title="Vo Van Hung FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
  </p>
