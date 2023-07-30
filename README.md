@@ -6,23 +6,23 @@ Vo Van Hung</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on ReactJS & AngularJS, NodeJS 
+- 🌱 Hiện tại, tôi đang làm việc với ReactJS và AngularJS, NodeJS.
 
-- 🤝 I’m available for freelancing.
+- 🤝 Tôi có thể làm việc tự do (freelancing).
 
-- 💬 Ask me about **Reactjs & Angularjs & Nodejs**
+- 💬 Hỏi tôi về **ReactJS, AngularJS và NodeJS**.
 
-- 📫 How to reach me **vovanhung77h12@gmail.com**
+- 📫 Liên hệ với tôi qua địa chỉ email **vovanhung77h12@gmail.com**.
 <br/>
 
-## Github Stats
+## Số liệu Github
 
 <img src="https://github-readme-stats.vercel.app/api?username=vovanhung-dev&&show_icons=true&count_private=true&theme=github_dark">|[![GitHub Streak](https://streak-stats.demolab.com?user=vovanhung-dev&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 |---|---|
-## 📝 Note
+## 📝 Chú ý
 🤝🏻 &nbsp; Hiện tại project được đặt ở chế độ private. Bạn cần kiểm tra số lượng project vui lòng liên hệ qua thông phía dưới
 
-## Connect with Me
+## Kết nối với tôi
 
 <p align="center">
   <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
