@@ -15,6 +15,11 @@ Vo Van Hung</a></h1>
 - 📫 How to reach me **vovanhung77h12@gmail.com**
 <br/>
 
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=vovanhung-dev&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=vovanhung-dev&theme=blueberry_duo"/>
+|---|---|
+
 ## Connect with Me
 
 
