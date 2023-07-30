@@ -10,7 +10,7 @@ Võ Văn Hùng</a></h1>
 
 - 🤝 Tôi có thể làm việc tự do (freelancing).
 
-- 💬 Hỏi tôi về **ReactJS, AngularJS và NodeJS**.
+- 💬 Hỏi tôi về **ReactJS, AngularJS và NodeJS và nhiều vấn đề khác,..**.
 
 - 📫 Liên hệ với tôi qua địa chỉ email **vovanhung77h12@gmail.com**.
 - 📞 Số điện thoại: 0337163991 (Zalo)
