@@ -13,6 +13,7 @@ Võ Văn Hùng</a></h1>
 - 💬 Hỏi tôi về **ReactJS, AngularJS và NodeJS**.
 
 - 📫 Liên hệ với tôi qua địa chỉ email **vovanhung77h12@gmail.com**.
+- 📞 Số điện thoại: 0337163991 (Zalo)
 <br/>
 
 ## Số liệu Github
