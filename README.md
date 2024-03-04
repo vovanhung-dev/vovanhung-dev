@@ -23,7 +23,7 @@ Võ Văn Hùng</a></h1>
 ## Chú ý
 🤝🏻 Hiện tại project đang được đặt ở chế độ private.
 
-📊 Số lượng project hiện tại tính tới ngày **20-02-2024** là **118** và tiếp tục đang được cập nhật.
+📊 Số lượng project hiện tại tính tới ngày **04-03-2024** là **125** và tiếp tục đang được cập nhật.
 
 Nếu bạn quan tâm đến bất kỳ dự án cụ thể nào hoặc muốn biết thêm chi tiết về các dự án đã thực hiện, hãy liên hệ với tôi qua các thông tin dưới đây! 📫
 
