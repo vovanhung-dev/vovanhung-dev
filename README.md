@@ -1,5 +1,9 @@
-<h1 align="center">Xin chào 👋, Tôi là <a href="https://github.com/vovanhung-dev" target="blank">
+<h1 align="center">Xin chào, Tôi là <a href="https://github.com/vovanhung-dev" target="blank">
 Võ Văn Hùng</a></h1>
+
+## Danh Muc
+
+Others
 <h3 align="center">Tôi là một nhà phát triển full-stack đến từ Việt Nam :vietnam:</h3>
 
 <a target="_blank" align="center">
